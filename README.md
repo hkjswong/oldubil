@@ -104,3 +104,5 @@ Oldubil的卡bin是美國發行的Master card，但是實測可以綁定土耳�
 [我們的TG](https://t.me/xwring) / [我們的頻道](https://t.me/chryax_offical) / [我們的GitHub](https://github.com/hkjswong) /[我們的Facebook](https://www.facebook.com/jsrwon)
 
 更多的內容可以關注我們的微信公眾號
+
+![image](https://github.com/hkjswong/shadowsocksR-setup/blob/master/%E5%BE%AE%E4%BF%A1%E5%85%AC%E7%9C%BE%E8%99%9F.jpg)
